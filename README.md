@@ -1,6 +1,10 @@
 # [Moodle Logstore xAPI](https://moodle.org/plugins/view/logstore_xapi)
 > Emits events from the [Moodle](https://moodle.org/) Logstore as [xAPI](https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md) statements.
 
+Branch for new Jisc xAPI Recipies:
+
+see https://github.com/jiscdev/xapi-vle
+
 [![Build Status](https://travis-ci.org/jlowe64/moodle-logstore_xapi.svg?branch=master)](https://travis-ci.org/jlowe64/moodle-logstore_xapi)
 [![Moodle Plugin Directory](http://img.shields.io/badge/moodle-plugin-orange.svg)](https://moodle.org/plugins/view/logstore_xapi)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/LearningLocker/learninglocker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
